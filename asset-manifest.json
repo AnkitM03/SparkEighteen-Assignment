@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SparkEighteen-Assignment/static/css/main.e29bca48.chunk.css",
+    "main.js": "/SparkEighteen-Assignment/static/js/main.5eee44cd.chunk.js",
+    "main.js.map": "/SparkEighteen-Assignment/static/js/main.5eee44cd.chunk.js.map",
+    "runtime-main.js": "/SparkEighteen-Assignment/static/js/runtime-main.c99beb30.js",
+    "runtime-main.js.map": "/SparkEighteen-Assignment/static/js/runtime-main.c99beb30.js.map",
+    "static/css/2.3ca2e7a5.chunk.css": "/SparkEighteen-Assignment/static/css/2.3ca2e7a5.chunk.css",
+    "static/js/2.a3187bf7.chunk.js": "/SparkEighteen-Assignment/static/js/2.a3187bf7.chunk.js",
+    "static/js/2.a3187bf7.chunk.js.map": "/SparkEighteen-Assignment/static/js/2.a3187bf7.chunk.js.map",
+    "static/js/3.a6a7fa5e.chunk.js": "/SparkEighteen-Assignment/static/js/3.a6a7fa5e.chunk.js",
+    "static/js/3.a6a7fa5e.chunk.js.map": "/SparkEighteen-Assignment/static/js/3.a6a7fa5e.chunk.js.map",
+    "index.html": "/SparkEighteen-Assignment/index.html",
+    "static/css/2.3ca2e7a5.chunk.css.map": "/SparkEighteen-Assignment/static/css/2.3ca2e7a5.chunk.css.map",
+    "static/css/main.e29bca48.chunk.css.map": "/SparkEighteen-Assignment/static/css/main.e29bca48.chunk.css.map",
+    "static/js/2.a3187bf7.chunk.js.LICENSE.txt": "/SparkEighteen-Assignment/static/js/2.a3187bf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c99beb30.js",
+    "static/css/2.3ca2e7a5.chunk.css",
+    "static/js/2.a3187bf7.chunk.js",
+    "static/css/main.e29bca48.chunk.css",
+    "static/js/main.5eee44cd.chunk.js"
+  ]
+}
