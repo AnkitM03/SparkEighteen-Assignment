@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.posts {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.selectoption {
+  width: 150px;
+}
+
+.information {
+  display: grid;
+  border-top: solid rgb(243, 111, 133) 1px;
+}
